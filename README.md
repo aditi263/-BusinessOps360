@@ -64,3 +64,21 @@ Additional work includes assignment verification, ticket resolution workflows, e
 Aditi
 
 GitHub: https://github.com/aditi263
+
+## Application Screenshots
+
+### Executive Operations Dashboard
+![Executive Operations Dashboard](Screenshots/executive-dashboard.png)
+
+### SLA Monitoring
+![SLA Monitoring](Screenshots/sla-monitoring.png)
+
+### SLA Compliance and Escalation
+![SLA Compliance](Screenshots/sla-compliance.png)
+
+### Ticket Management
+![Ticket Management](Screenshots/ticket-management.png)
+
+### Employee and Application Search
+![Employee and Application Search](Screenshots/employee-application-search.png)
+
